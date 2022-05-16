@@ -17,7 +17,7 @@ GameObject:
   - component: {fileID: 3198354503638700607}
   m_Layer: 0
   m_Name: Bad 1
-  m_TagString: Untagged
+  m_TagString: Bad
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -143,3 +143,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84572ef2907d5504bad09aa9f66ba68e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  pointValue: 0
+  exposionParticle: {fileID: 0}
